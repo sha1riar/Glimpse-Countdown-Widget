@@ -1,6 +1,7 @@
 # Glimpse-Countdown-Widget
 Meet Glimpse, the only countdown widget you'll ever need—and it's completely free.
 
+```html
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
@@ -55,4 +56,4 @@ word-break: break-word !important;
       }
     </style>
       </div>
-      
+      ```
